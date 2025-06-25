@@ -1,4 +1,13 @@
-### AL ###
+temp_file.txt
+
+git status
+
+git status
+
+
+git rm --cached temp_file.txt
+
+# AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
@@ -21,3 +30,11 @@ rad.json
 #Test results file
 TestResults.xml
 text_ignore.txt
+t status
+
+
+git rm --cached temp_file.txt
+
+
+
+
